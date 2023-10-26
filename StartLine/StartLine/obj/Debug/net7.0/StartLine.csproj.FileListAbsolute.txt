@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/StartLine/StartLine/bin/Debug/net7.0/StartLine
+/Users/justynamalinowska/Projects/StartLine/StartLine/bin/Debug/net7.0/StartLine.deps.json
+/Users/justynamalinowska/Projects/StartLine/StartLine/bin/Debug/net7.0/StartLine.runtimeconfig.json
+/Users/justynamalinowska/Projects/StartLine/StartLine/bin/Debug/net7.0/StartLine.dll
+/Users/justynamalinowska/Projects/StartLine/StartLine/bin/Debug/net7.0/StartLine.pdb
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.dll
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/refint/StartLine.dll
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.pdb
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/StartLine.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/StartLine/StartLine/obj/Debug/net7.0/ref/StartLine.dll
