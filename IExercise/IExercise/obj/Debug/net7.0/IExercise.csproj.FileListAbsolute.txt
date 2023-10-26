@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/IExercise/IExercise/bin/Debug/net7.0/IExercise
+/Users/justynamalinowska/Projects/IExercise/IExercise/bin/Debug/net7.0/IExercise.deps.json
+/Users/justynamalinowska/Projects/IExercise/IExercise/bin/Debug/net7.0/IExercise.runtimeconfig.json
+/Users/justynamalinowska/Projects/IExercise/IExercise/bin/Debug/net7.0/IExercise.dll
+/Users/justynamalinowska/Projects/IExercise/IExercise/bin/Debug/net7.0/IExercise.pdb
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.dll
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/refint/IExercise.dll
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.pdb
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/IExercise.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/IExercise/IExercise/obj/Debug/net7.0/ref/IExercise.dll
