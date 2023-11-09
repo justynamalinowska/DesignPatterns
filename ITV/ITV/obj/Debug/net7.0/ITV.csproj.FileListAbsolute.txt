@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/ITV/ITV/bin/Debug/net7.0/ITV
+/Users/justynamalinowska/Projects/ITV/ITV/bin/Debug/net7.0/ITV.deps.json
+/Users/justynamalinowska/Projects/ITV/ITV/bin/Debug/net7.0/ITV.runtimeconfig.json
+/Users/justynamalinowska/Projects/ITV/ITV/bin/Debug/net7.0/ITV.dll
+/Users/justynamalinowska/Projects/ITV/ITV/bin/Debug/net7.0/ITV.pdb
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.dll
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/refint/ITV.dll
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.pdb
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ITV.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/ITV/ITV/obj/Debug/net7.0/ref/ITV.dll
