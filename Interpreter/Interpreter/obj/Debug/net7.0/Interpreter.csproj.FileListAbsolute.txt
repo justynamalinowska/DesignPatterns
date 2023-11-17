@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/bin/Debug/net7.0/Interpreter
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/bin/Debug/net7.0/Interpreter.deps.json
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/bin/Debug/net7.0/Interpreter.runtimeconfig.json
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/bin/Debug/net7.0/Interpreter.dll
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/bin/Debug/net7.0/Interpreter.pdb
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.dll
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/refint/Interpreter.dll
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.pdb
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/Interpreter.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Interpreter/Interpreter/obj/Debug/net7.0/ref/Interpreter.dll
