@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/bin/Debug/net7.0/Pamiatka
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/bin/Debug/net7.0/Pamiatka.deps.json
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/bin/Debug/net7.0/Pamiatka.runtimeconfig.json
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/bin/Debug/net7.0/Pamiatka.dll
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/bin/Debug/net7.0/Pamiatka.pdb
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.dll
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/refint/Pamiatka.dll
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.pdb
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/Pamiatka.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Pamiatka/Pamiatka/obj/Debug/net7.0/ref/Pamiatka.dll
