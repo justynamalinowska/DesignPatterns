@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/bin/Debug/net7.0/Łańcuch
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/bin/Debug/net7.0/Łańcuch.deps.json
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/bin/Debug/net7.0/Łańcuch.runtimeconfig.json
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/bin/Debug/net7.0/Łańcuch.dll
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/bin/Debug/net7.0/Łańcuch.pdb
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.dll
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/refint/Łańcuch.dll
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.pdb
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/Łańcuch.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Łańcuch/Łańcuch/obj/Debug/net7.0/ref/Łańcuch.dll
