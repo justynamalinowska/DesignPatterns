@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Mediator/Mediator/bin/Debug/net7.0/Mediator
+/Users/justynamalinowska/Projects/Mediator/Mediator/bin/Debug/net7.0/Mediator.deps.json
+/Users/justynamalinowska/Projects/Mediator/Mediator/bin/Debug/net7.0/Mediator.runtimeconfig.json
+/Users/justynamalinowska/Projects/Mediator/Mediator/bin/Debug/net7.0/Mediator.dll
+/Users/justynamalinowska/Projects/Mediator/Mediator/bin/Debug/net7.0/Mediator.pdb
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.dll
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/refint/Mediator.dll
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.pdb
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Mediator/Mediator/obj/Debug/net7.0/ref/Mediator.dll
