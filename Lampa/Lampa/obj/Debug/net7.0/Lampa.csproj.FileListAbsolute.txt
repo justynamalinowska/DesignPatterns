@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Lampa/Lampa/bin/Debug/net7.0/Lampa
+/Users/justynamalinowska/Projects/Lampa/Lampa/bin/Debug/net7.0/Lampa.deps.json
+/Users/justynamalinowska/Projects/Lampa/Lampa/bin/Debug/net7.0/Lampa.runtimeconfig.json
+/Users/justynamalinowska/Projects/Lampa/Lampa/bin/Debug/net7.0/Lampa.dll
+/Users/justynamalinowska/Projects/Lampa/Lampa/bin/Debug/net7.0/Lampa.pdb
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.dll
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/refint/Lampa.dll
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.pdb
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/Lampa.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Lampa/Lampa/obj/Debug/net7.0/ref/Lampa.dll
