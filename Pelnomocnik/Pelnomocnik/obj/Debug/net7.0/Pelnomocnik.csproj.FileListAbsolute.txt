@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/bin/Debug/net7.0/Pelnomocnik
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/bin/Debug/net7.0/Pelnomocnik.deps.json
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/bin/Debug/net7.0/Pelnomocnik.runtimeconfig.json
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/bin/Debug/net7.0/Pelnomocnik.dll
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/bin/Debug/net7.0/Pelnomocnik.pdb
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.dll
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/refint/Pelnomocnik.dll
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.pdb
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/Pelnomocnik.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Pelnomocnik/Pelnomocnik/obj/Debug/net7.0/ref/Pelnomocnik.dll
