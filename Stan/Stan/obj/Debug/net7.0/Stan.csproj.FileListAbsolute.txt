@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/Stan/Stan/bin/Debug/net7.0/Stan
+/Users/justynamalinowska/Projects/Stan/Stan/bin/Debug/net7.0/Stan.deps.json
+/Users/justynamalinowska/Projects/Stan/Stan/bin/Debug/net7.0/Stan.runtimeconfig.json
+/Users/justynamalinowska/Projects/Stan/Stan/bin/Debug/net7.0/Stan.dll
+/Users/justynamalinowska/Projects/Stan/Stan/bin/Debug/net7.0/Stan.pdb
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.dll
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/refint/Stan.dll
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.pdb
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/Stan.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/Stan/Stan/obj/Debug/net7.0/ref/Stan.dll

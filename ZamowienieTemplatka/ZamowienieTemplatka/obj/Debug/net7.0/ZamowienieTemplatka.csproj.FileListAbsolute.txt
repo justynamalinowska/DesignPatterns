@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/bin/Debug/net7.0/ZamowienieTemplatka
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/bin/Debug/net7.0/ZamowienieTemplatka.deps.json
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/bin/Debug/net7.0/ZamowienieTemplatka.runtimeconfig.json
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/bin/Debug/net7.0/ZamowienieTemplatka.dll
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/bin/Debug/net7.0/ZamowienieTemplatka.pdb
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.dll
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/refint/ZamowienieTemplatka.dll
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.pdb
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ZamowienieTemplatka.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/ZamowienieTemplatka/ZamowienieTemplatka/obj/Debug/net7.0/ref/ZamowienieTemplatka.dll
